@@ -20,3 +20,10 @@ Practice css colors
 
 * [HTML](03_CSS_ColorMarkers.html)
 * [CSS](CSS/03_CSS_ColorMarkers.css)
+
+## 04_CSS_Registration_Form.html
+
+Use html form about check box, radio button, textarea, ...
+
+* [HTML](04_CSS_Registration_Form.html.html)
+* [CSS](CSS/04_CSS_Registration_Form.css)****
